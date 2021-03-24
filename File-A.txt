@@ -2,4 +2,8 @@ This is File-A
 This is File-A --version
 This is difference in File-A
 This version-2 of File-A
+<<<<<<< HEAD
 File-A --Version-4
+=======
+This is file-A with changes and test to download this file to Local git repository -- version-3
+>>>>>>> 533a8db6f6b004bb00da46fc948ad6f0d17c8f92
